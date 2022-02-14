@@ -1,0 +1,10 @@
+digraph "Singly Linked List" {
+	graph [rankdir=LR]
+	node [fontname=Consolas height=.5 shape=record width=1.3]
+	edge [arrowhead=vee arrowtail=dot dir=both tailclip=false]
+	11 [label="{<data>11|<next>}"]
+	22 [label="{<data>22|<next>}"]
+	33 [label="{<data>33| <next> NULL}"]
+	11:next:c->22
+	22:next:c->33
+}
