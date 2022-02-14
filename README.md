@@ -8,7 +8,7 @@ pip install graphviz
 ```
 Simply run it through python interpreter, Enter a Linked List and it will make a PNG file which contains the Linked List graphically.
 
-###Example
+### Example
 ```
 print("Enter a Linked List Nodes(Ex. 1 2 3 4 5): ")
 ```
@@ -18,5 +18,5 @@ Lets say I have entered the <b>11 22 33</b> then it will generate following PNG 
 
 ![Output Image](https://github.com/sanskark/linked-list-visualizer/blob/master/Outputs/linked_list.gv.png?raw=true)
 
-###Contributing
+### Contributing
 You can suggest me a new feature by [creating an issue](https://github.com/sanskark/linked-list-visualizer/issues).
