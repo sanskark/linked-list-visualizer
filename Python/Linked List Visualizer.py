@@ -1,5 +1,5 @@
 """
-This file contains
+This file contains the implementation of Linked List graphically using DOT language
 """
 
 from graphviz import Digraph
